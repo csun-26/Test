@@ -51,7 +51,7 @@ SELECT
     ,[Automatch Status]
     ,[Load Measurement Type]
     ,[Reason Code]
-    -- ,[Note]
+    ,[Note]
     ,[Internal Document Number]
     ,[Movement Document Date]
 FROM [ra].[search.movement]
